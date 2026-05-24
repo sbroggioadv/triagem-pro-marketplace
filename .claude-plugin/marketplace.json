@@ -12,7 +12,7 @@
         "repo": "sbroggioadv/triagem-pro"
       },
       "description": "Agente de triagem de WhatsApp para escritorios de advocacia. Plugin Claude Code/Cowork com triagem por urgencia, redator com voz propria da advogada, guardrail OAB (5 travas), 4 comandos de supervisao e wizard de instalacao 100% pelo chat. Roda na maquina/sessao da compradora, sem servidor intermediario.",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "author": {
         "name": "Triagem Pro",
         "url": "https://github.com/sbroggioadv/triagem-pro"
