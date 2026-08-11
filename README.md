@@ -1,5 +1,21 @@
 # Triagem Pro — Marketplace
 
+> ## ⚖️ Este repositório NÃO é software livre
+>
+> O código fica visível para viabilizar a instalação no Claude/Cowork — não porque seja gratuito.
+>
+> **TRIAGEM PRO — R$ 98,00, pagamento único** (sem assinatura, sem recorrência)
+> 👉 **[Adquirir a licença](https://pay.kirvano.com/673835de-a873-4a95-88a6-8a4e120bc232)**
+>
+> **Ao forkar ou clonar este repositório você adere à [licença de uso](LICENSE)**, devendo efetuar o
+> pagamento no link acima e enviar o comprovante para **luis@sbroggio.com.br**.
+>
+> Os forks são públicos no GitHub e são registrados pelo titular (data, conta e repositório).
+>
+> **Já comprou?** Nada a fazer — sua licença cobre o uso e o fork para instalação. Este aviso vale de
+> 11/08/2026 em diante, para quem chega ao repositório sem ter adquirido.
+
+
 Marketplace oficial do **Triagem Pro** para Claude Code e Claude Cowork.
 
 ## Como instalar (Claude Cowork)
